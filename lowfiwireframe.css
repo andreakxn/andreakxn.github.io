@@ -4,3 +4,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.row{
+          margin:50px;
+      }
