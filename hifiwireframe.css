@@ -29,7 +29,9 @@ carousel-item img{
   padding: 0 10px;
 }
 
-
+a:hover img {
+    box-shadow: 5px 5px 5px rgba(0, 255, 0, 0.1);
+}
 
 
 
