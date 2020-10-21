@@ -1,0 +1,54 @@
+section{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+carousel-item img{
+ width: 100%;    
+ margin: auto; 
+ display: block;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.50);
+    color: white;
+}
+
+
+
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+
+
+
+
+
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+.col-sm-6{
+    
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+
+
