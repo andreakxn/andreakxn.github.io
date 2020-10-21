@@ -42,12 +42,11 @@ carousel-item img{
     display: block;
     margin-bottom: 20px;
   }
-    
-  .container, .container-lg, .container-md, .container-sm, .container-xl {
-    max-width: 2140px;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl{
+  max-width: 2140px;
 }
 
-}
 
 .col-sm-6{
     
