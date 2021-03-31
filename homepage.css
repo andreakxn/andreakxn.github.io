@@ -1,0 +1,72 @@
+.header{
+    
+    text-align: center;
+}
+
+.w3-bar{
+    
+    height: 40px;
+}
+
+.carousel-indicator{
+    
+    
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.second-header{
+    
+    
+}
+
+.card{
+    
+    float: left;
+    display: flex;
+}
+
+.card-image{
+    
+    
+    text-align: left;
+}
+
+.card-text{
+    
+    float: left;
+}
+
+.form{
+    
+    float: right;
+    position: relative;
+}
+
+.fml{
+    
+    margin: 40px;
+}
+
+.card-content{
+    
+    text-align: center;
+}
+
+.card-header{
+    
+    text-align: center;
+}
+
+a{
+    
+    color: dodgerblue;
+}
+
+
+
+
