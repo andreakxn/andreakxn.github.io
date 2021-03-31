@@ -60,7 +60,16 @@ h6 {
     font-size   : 15px;
     line-height : 1.5em;
     }
+.caption {
+    
+    color: #2b2b3d;
+    text-align: center;
+    position: relative;
+}
 
+hr{
+    border-top: 3px solid #7CB6EC;
+}
 /* --------------------------------------
  * LINK STYLE
  *------------------------------------------*/
@@ -478,6 +487,7 @@ nav.navbar-default{
             top,
             transparent 0%,
             rgba(124, 182, 236, 0.5) 100%
+     
     );
     }
 
